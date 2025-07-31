@@ -1,4 +1,4 @@
-git add
+*git add*
 git blame
 git bisect
 git checkout
